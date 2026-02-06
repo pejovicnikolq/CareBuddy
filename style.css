@@ -31,6 +31,13 @@ h3 {
   font-family: "Plus Jakarta Sans", sans-serif;
 }
 
+p {
+  font-weight: 600;
+}
+
+.btn {
+  font-weight: 700;
+}
 /* -----------------NAV-BAR------------ */
 
 .navbar {
@@ -1178,3 +1185,4 @@ footer {
     margin-right: 1rem;
   }
 }
+
